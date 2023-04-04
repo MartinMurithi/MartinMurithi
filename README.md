@@ -1,6 +1,7 @@
 - 👋 Hi, I’m MartinMurithi
 - 👀 I’m interested in Software development and IoT Engineering.
-- 🌱 I’m currently learning Full stack web development
+- 🌱 I’m currently learning back-end web development(Node JS, Express, MSSQL)
+- 🌱Technologies I use : React, CSS3, Redux Toolkit and Firebase
 - 💞️ I’m looking to collaborate on interesting and open source projects 
 - 📫 How to reach me: wachiramartin442@gmail.com
 
