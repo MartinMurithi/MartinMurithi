@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/martin-wachira
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira-bb8985260/
 ) [![Dev.to](https://img.shields.io/badge/Dev.to-12100E?logo=dev.to&logoColor=white)](https://dev.to/martinwachira) 
 
 # 💻 Tech Stack:
