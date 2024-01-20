@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+# 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira-bb8985260/
 ) [![Dev.to](https://img.shields.io/badge/Dev.to-12100E?logo=dev.to&logoColor=white)](https://dev.to/martinwachira) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MurithiMartin99) 
 
