@@ -46,6 +46,13 @@
 <code>Robotics</code>
 </p>
 
+## 🌟 Hobbies
+<ul>
+   <li>Cycling</li>
+   <li>Hiking</li>
+   <li>Watching Comedies</li>
+</ul>
+
 ## 📫 Contacts
 How to reach me: **[Email](wachiramartin442@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/martin-wachira)** or **[X](https://x.com/MurithiMartin99)**
 
