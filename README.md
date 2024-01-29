@@ -1,3 +1,32 @@
+## About Me
+
+Hey there! 👋 I'm a full-stack developer with a knack for building high-performance solutions tailored to businesses' needs. I'm all about creating projects that can easily grow and adapt as requirements evolve. When I'm not knee-deep in code, you'll often find me delving into the world of C programming, exploring the fundamentals of low-level concepts.
+
+Outside of coding, I'm a big fan of staying active – whether it's cycling through scenic routes, hiking up mountains for breathtaking views, or diving into the pool for a refreshing swim. And when it's time to unwind, you can bet I'll be tuning into my favorite comedies for a good laugh. Let's connect and embark on an amazing coding journey together!
+
+## Technologies
+
+### Front end
+- HTML5
+- CSS3
+- TailwindCSS
+- JavaScript
+   React
+- Redux Toolkit
+- React Router DOM
+
+### Libraries/Frameworks
+-Node.js
+-Express.js
+-PostgreSQL
+- Cloudinary
+
+## Interests
+- Low-level programming with C
+- Python
+- Linux
+- AI and ML
+
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira)
