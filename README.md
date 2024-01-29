@@ -1,31 +1,52 @@
-## About Me
+<h3> Hey 👋 I'm Martin </h3> 
+<p>I'm a full-stack developer based in Kenya with a knack for building high-performance solutions tailored to businesses' needs. I'm all about creating projects that   can easily grow and adapt as requirements evolve.</p>
 
-Hey there! 👋 I'm a full-stack developer with a knack for building high-performance solutions tailored to businesses' needs. I'm all about creating projects that can easily grow and adapt as requirements evolve. When I'm not knee-deep in code, you'll often find me delving into the world of C programming, exploring the fundamentals of low-level concepts.
+<ul>
+   <li>Read my blogs: <a href='https://dev.to/martinwachira' target='_blank'>Dev.to</a></li>
+   <li>Follow me on <a href='https://x.com/MurithiMartin99' target='_blank'>X</a></li>
+   <li>Follow me on <a href='https://www.linkedin.com/in/martin-wachira' target='_blank'>LinkedIn</a></li>
+</ul>
 
-Outside of coding, I'm a big fan of staying active – whether it's cycling through scenic routes, hiking up mountains for breathtaking views, or diving into the pool for a refreshing swim. And when it's time to unwind, you can bet I'll be tuning into my favorite comedies for a good laugh. Let's connect and embark on an amazing coding journey together!
+<h3>⚙️ Technologies</h3>
+<p> <strong>Frontend Development: </strong>
+<code>HTML5</code>
+<code>CSS3</code>
+<code>TailwindCSS</code>
+<code>Javascript</code>
+<code>React</code>
+<code>Redux Toolkit</code>
+</p>
 
-## Technologies
+<p> <strong>Backend Development: </strong>
+<code>Node JS</code>
+<code>Express JS</code>
+<code>PostgreSQL</code>
+<code>MongoDB</code>
+<code>Postman</code>
+</p>
 
-### Front end
-- HTML5
-- CSS3
-- TailwindCSS
-- JavaScript
-   React
-- Redux Toolkit
-- React Router DOM
+<p> <strong>Version Control: </strong>
+<code>Git</code>
+<code>Github</code>
+</p>
 
-### Libraries/Frameworks
--Node.js
--Express.js
--PostgreSQL
-- Cloudinary
+<p> <strong>Cloud: </strong>
+<code>Cloudinary</code>
+<code>Vercel</code>
+</p>
 
-## Interests
-- Low-level programming with C
-- Python
-- Linux
-- AI and ML
+<p> <strong>Others: </strong>
+<code>Linux</code>
+<code>C</code>
+</p>
+
+<p> <strong>Interests: </strong>
+<code>Low Level Programming</code>
+<code>AI and ML</code>
+<code>Robotics</code>
+</p>
+
+- 📫 How to reach me **wachiramartin442@gmail.com**
 
 
 # 🌐 Socials:
