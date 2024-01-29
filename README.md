@@ -1,4 +1,4 @@
-<h3> Hey 👋 I'm Martin </h3> 
+## Hey 👋 I'm Martin 
 <p>I'm a full-stack developer based in Kenya with a knack for building high-performance solutions tailored to businesses' needs. I'm all about creating projects that   can easily grow and adapt as requirements evolve.</p>
 
 <ul>
@@ -7,7 +7,7 @@
    <li>Follow me on <a href='https://www.linkedin.com/in/martin-wachira' target='_blank'>LinkedIn</a></li>
 </ul>
 
-<h3>⚙️ Technologies</h3>
+## ⚙️ Technologies
 <p> <strong>Frontend Development: </strong>
 <code>HTML5</code>
 <code>CSS3</code>
@@ -46,10 +46,10 @@
 <code>Robotics</code>
 </p>
 
-- 📫 How to reach me **wachiramartin442@gmail.com**
+## 📫 Contacts
+How to reach me: **[Email](wachiramartin442@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/martin-wachira)** or **[X](https://x.com/MurithiMartin99)**
 
-
-# 🌐 Socials:
+<!--# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira)
 [![Dev.to](https://img.shields.io/badge/Dev.to-12100E?logo=dev.to&logoColor=white)](https://dev.to/martinwachira) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MurithiMartin99) 
 
@@ -60,5 +60,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
