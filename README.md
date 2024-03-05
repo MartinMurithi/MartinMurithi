@@ -14,7 +14,6 @@
 <code>TailwindCSS</code>
 <code>Javascript</code>
 <code>React</code>
-<code>Redux Toolkit</code>
 </p>
 
 <p> <strong>Backend Development: </strong>
