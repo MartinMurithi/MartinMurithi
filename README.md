@@ -1,55 +1,10 @@
 ## Hey 👋 I'm Martin 
-<p>I'm a full-stack developer based in Kenya with a knack for building high-performance solutions tailored to businesses' needs. I'm all about creating projects that   can easily grow and adapt as requirements evolve.</p>
+<p>I'm a backend engineer based in Kenya with a knack for building high-performance solutions tailored to businesses' needs. I'm all about creating projects that   can easily grow and adapt as requirements evolve.</p>
 
 <ul>
    <li>Read my blogs: <a href='https://dev.to/martinwachira' target='_blank'>Dev.to</a></li>
    <li>Follow me on <a href='https://x.com/MurithiMartin99' target='_blank'>X</a></li>
    <li>Follow me on <a href='https://www.linkedin.com/in/martin-wachira' target='_blank'>LinkedIn</a></li>
-</ul>
-
-## ⚙️ Technologies
-<p> <strong>Frontend Development: </strong>
-<code>HTML5</code>
-<code>CSS3</code>
-<code>TailwindCSS</code>
-<code>Javascript</code>
-<code>React</code>
-</p>
-
-<p> <strong>Backend Development: </strong>
-<code>Node JS</code>
-<code>Express JS</code>
-<code>PostgreSQL</code>
-<code>MongoDB</code>
-<code>Postman</code>
-</p>
-
-<p> <strong>Version Control: </strong>
-<code>Git</code>
-<code>Github</code>
-</p>
-
-<p> <strong>Cloud: </strong>
-<code>Cloudinary</code>
-<code>Vercel</code>
-</p>
-
-<p> <strong>Others: </strong>
-<code>Linux</code>
-<code>C</code>
-</p>
-
-<p> <strong>Interests: </strong>
-<code>Low Level Programming</code>
-<code>AI and ML</code>
-<code>Robotics</code>
-</p>
-
-## 🌟 Hobbies
-<ul>
-   <li>Cycling</li>
-   <li>Hiking</li>
-   <li>Watching Comedies</li>
 </ul>
 
 ## 📫 Contacts
