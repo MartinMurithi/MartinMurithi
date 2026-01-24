@@ -14,7 +14,7 @@ I approach software from first principles, design for maintainability, and own s
 
 ## 📊 GitHub Stats & Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MartinMurithi&show_icons=true&locale=en&theme=dark&count_private=true" alt="MartinMurithi Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MartinMurithi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="MartinMurithi Stats" /></p>
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=MartinMurithi&theme=dark" alt="MartinMurithi Streak" border=false/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinMurithi&show_icons=true&locale=en&layout=compact&theme=dark" alt="MartinMurithi Top Languages" /></p>
 
@@ -82,5 +82,3 @@ I approach software from first principles, design for maintainability, and own s
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/archycode)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/archycode)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@archycode)
-
-
