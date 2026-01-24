@@ -1,39 +1,65 @@
-# 👋 Hi, I’m Martin | Backend & Systems Engineer
+# 👋 Hi, I’m Martin
+### Backend | Systems | Software Engineer
 
-🚀 Building reliable systems, scalable APIs, and microservices that solve real problems. I approach software from first principles and design for maintainability and impact.
+I build reliable, scalable systems that solve real-world problems.  
+I approach software from first principles, design for maintainability, and own solutions end-to-end.
+
 
 📍 Nairobi, Kenya  
-📫 Reach me: martin.email@example.com  
+📫 Reach me: wachiramartin442@gmail.com <br/>
 🌐 Portfolio: [www.martin.dev](https://www.martin.dev)  
-🔗 LinkedIn: [linkedin.com/in/martin](https://www.linkedin.com/in/martin)  
-🐦 Twitter: [@martin_codes](https://twitter.com/martin_codes)
+🔗 LinkedIn: [https://www.linkedin.com/in/martin-wachira/](https://www.linkedin.com/in/martin-wachira/)  
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/martin_codes)
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martin&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martin&theme=dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MartinMurithi&show_icons=true&locale=en&theme=dark&count_private=true" alt="MartinMurithi Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinMurithi&theme=dark" alt="MartinMurithi Streak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinMurithi&show_icons=true&locale=en&layout=compact&theme=dark" alt="MartinMurithi Top Languages" /></p>
 
 ---
 
 ## 🛠 Tech Stack
 
-| Languages        | Systems & Tools                 | Databases       | Cloud & DevOps            | Observability           |
-|-----------------|--------------------------------|----------------|---------------------------|------------------------|
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | Linux | PostgreSQL | AWS (S3, Lambda, ECS) | Prometheus |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Docker | Redis       | Terraform                | Grafana                |
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | Kubernetes | MongoDB     | GitHub Actions / CI/CD   | Logging                |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | gRPC / Protocol Buffers |           |                           |                        |
+**Languages:**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Systems & Tools:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
+![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=flat-square&logo=grpc&logoColor=white) 
+![Protocol Buffers](https://img.shields.io/badge/Protobuf-3F51B5?style=flat-square&logo=protocol-buffers&logoColor=white) 
+![Microservices](https://img.shields.io/badge/Microservices-5C6BC0?style=flat-square&logo=appveyor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+**Cloud & DevOps:**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6F61?style=flat-square&logo=travis-ci&logoColor=white)
+
+<!--**Observability:**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) 
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) 
+![Logging](https://img.shields.io/badge/Logging-6A1B9A?style=flat-square&logoColor=white)
+-->
 ---
 
 ## ⚡ Philosophy
 
 - Treat software as long-lived; avoid duct tape fixes.  
-- Prioritize clarity, reliability, and maintainability.  
-- Build observability and resilience into systems from day one.  
+- Prioritize clarity, reliability, and maintainability.   
 - Own problems end-to-end and learn continuously.
 
 ---
@@ -54,7 +80,6 @@
 
 ## 🌐 Connect & Explore
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge)](https://www.martin.dev)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/martin_codes)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=flat-square)](https://www.martin.dev)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/martin_codes)
