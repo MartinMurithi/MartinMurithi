@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Martin
+# Hi, I’m Martin
 ### Backend | Systems | Software Engineer
 
 I build reliable, scalable systems that solve real-world problems.  
@@ -9,7 +9,6 @@ I approach software from first principles, design for maintainability, and own s
 📫 Reach me: wachiramartin442@gmail.com <br/>
 🌐 Portfolio: [www.martin.dev](https://www.martin.dev)  
 🔗 LinkedIn: [https://www.linkedin.com/in/martin-wachira/](https://www.linkedin.com/in/martin-wachira/)  
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/martin_codes)
 
 ---
 
@@ -70,16 +69,17 @@ I approach software from first principles, design for maintainability, and own s
 
 ---
 
-## 🧩 Learning in Progress
+<!-- ## 🧩 Learning in Progress
 
 - Go runtime internals & goroutine scheduling  
 - Distributed consensus algorithms  
 - Kubernetes operator development  
-
+-->
 ---
 
 ## 🌐 Connect & Explore
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira/)[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=flat-square)](https://www.martin.dev)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/archycode)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/archycode)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@archycode)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=flat-square)](https://www.martin.dev)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/martin_codes)
