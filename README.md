@@ -47,11 +47,12 @@ I approach software from first principles, design for maintainability, and own s
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF6F61?style=flat-square&logo=travis-ci&logoColor=white)
 
-<!--**Observability:**  
+**Observability:**  
+<!--
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) 
-![Logging](https://img.shields.io/badge/Logging-6A1B9A?style=flat-square&logoColor=white)
 -->
+![Logging](https://img.shields.io/badge/Logging-6A1B9A?style=flat-square&logoColor=white)
 ---
 
 ## ⚡ Philosophy
