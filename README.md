@@ -6,8 +6,6 @@ I approach software from first principles, design for maintainability, and own s
 
 
 📍 Nairobi, Kenya  
-📫 Reach me: wachiramartin442@gmail.com <br/>
-🌐 Portfolio: [www.martin.dev](https://www.martin.dev)  
 🔗 LinkedIn: [https://www.linkedin.com/in/martin-wachira/](https://www.linkedin.com/in/martin-wachira/)  
 
 ---
