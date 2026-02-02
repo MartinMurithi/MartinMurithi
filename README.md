@@ -5,7 +5,7 @@ I build reliable, scalable systems that solve real-world problems.
 I approach software from first principles, design for maintainability, and own solutions end-to-end.
 
 
-📍 Kenya 
+📍 Nairobi, Kenya <br/>
 🔗 LinkedIn: [https://www.linkedin.com/in/martin-wachira/](https://www.linkedin.com/in/martin-wachira/)  
 
 ---
@@ -79,4 +79,4 @@ I approach software from first principles, design for maintainability, and own s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira/)[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=flat-square)](https://www.martin.dev)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/archycode)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/archycode)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@archycode)
+<!--[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@archycode)-->
