@@ -2,7 +2,7 @@
 ### Systems | Software Engineer
 
 I build reliable, scalable systems that solve real-world problems.  
-I approach software from first principles, design for maintainability, and own solutions end-to-end.
+I approach software from first principles, design for maintainability and scalability, and own solutions end-to-end.
 
 
 📍 Nairobi, Kenya <br/>
