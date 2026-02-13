@@ -13,7 +13,7 @@ I approach software from first principles, design for maintainability and scalab
 ## 📊 GitHub Stats & Activity
 
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=MartinMurithi&theme=dark" alt="MartinMurithi Streak" border=false/></p>
-<!-- <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/api/top-langs?username=MartinMurithi&show_icons=true&locale=en&layout=compact&theme=dark" alt="MartinMurithi Top Languages" /></p> -->
+<p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/api/top-langs?username=MartinMurithi&show_icons=true&locale=en&layout=compact&theme=dark" alt="MartinMurithi Top Languages" /></p>
 
 ---
 
@@ -39,11 +39,13 @@ I approach software from first principles, design for maintainability and scalab
 ![Protocol Buffers](https://img.shields.io/badge/Protobuf-3F51B5?style=flat-square&logo=protocol-buffers&logoColor=white) 
 ![Microservices](https://img.shields.io/badge/Microservices-5C6BC0?style=flat-square&logo=appveyor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
 **Cloud & DevOps:**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF6F61?style=flat-square&logo=travis-ci&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 
 **Observability:**  
 <!--
@@ -73,6 +75,7 @@ I approach software from first principles, design for maintainability and scalab
 - Distributed consensus algorithms  
 - Kubernetes operator development  
 -->
+
 ---
 
 ## 🌐 Connect & Explore
