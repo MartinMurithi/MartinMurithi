@@ -13,8 +13,6 @@ I approach software from first principles, design for maintainability and scalab
 ## 📊 GitHub Stats & Activity
 
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=MartinMurithi&theme=dark" alt="MartinMurithi Streak" border=false/></p>
-<p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/api/top-langs?username=MartinMurithi&show_icons=true&locale=en&layout=compact&theme=dark" alt="MartinMurithi Top Languages" /></p>
-
 ---
 
 ## 🛠 Tech Stack
