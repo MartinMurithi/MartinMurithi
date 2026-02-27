@@ -68,12 +68,6 @@ I approach software from first principles, design for maintainability and scalab
 ---
 
 <!-- ## 🧩 Learning in Progress
-
-- Go runtime internals & goroutine scheduling  
-- Distributed consensus algorithms  
-- Kubernetes operator development  
--->
-
 ---
 
 ## 🌐 Connect & Explore
