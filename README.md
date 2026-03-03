@@ -1,75 +1,78 @@
-# Hi, I’m Martin Wachira 
-### Systems | Software Engineer
+<div align="center">
 
-I build reliable, scalable systems that solve real-world problems.  
-I approach software from first principles, design for maintainability and scalability, and own solutions end-to-end.
+# 👨‍💻 Martin Wachira 
+## **Systems Architect & Software Engineer**
+**Specializing in FinTech Infrastructure & High-Scale Platforms**
 
-🔗 LinkedIn: [https://www.linkedin.com/in/martin-wachira/](https://www.linkedin.com/in/martin-wachira/)  
+<br />
 
----
-
-## 📊 GitHub Stats & Activity
-
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=MartinMurithi&theme=dark" alt="MartinMurithi Streak" border=false/></p>
-
-
-## 🛠 Tech Stack
-
-**Languages:**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Systems & Tools:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
-![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=flat-square&logo=grpc&logoColor=white) 
-![Protocol Buffers](https://img.shields.io/badge/Protobuf-3F51B5?style=flat-square&logo=protocol-buffers&logoColor=white) 
-![Microservices](https://img.shields.io/badge/Microservices-5C6BC0?style=flat-square&logo=appveyor&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-
-**Cloud & DevOps:**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/CI/CD-FF6F61?style=flat-square&logo=travis-ci&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
-
-**Observability:**  
-<!--
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) 
--->
-![Logging](https://img.shields.io/badge/Logging-6A1B9A?style=flat-square&logoColor=white)
----
-
-## ⚡ Philosophy
-
-- Treat software as long-lived; avoid duct tape fixes.  
-- Prioritize clarity, reliability, and maintainability.   
-- Own problems end-to-end and learn continuously.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wachiramartin442@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge)](https://www.martin.dev)
 
 ---
 
-## 📝 Quotes & Inspiration
+## 🎯 Professional Focus
+### **Building the backbone of modern commerce.** I engineer **high-availability systems** with a focus on **First Principles**. My work spans **cross-border payment gateways**, **automated hosting infrastructure**, and **multi-tenant SaaS engines**. 
 
-> “Education is the most powerful weapon which you can use to change the world.” — Nelson Mandela
+</div>
 
 ---
 
-<!-- ## 🧩 Learning in Progress
+## 🚀 Key Project Highlights(ongoing)
+
+### 💳 Cross-Border Payment System
+**Core Tech:** Go, gRPC, PostgreSQL  
+Developing a **secure ledger system** capable of handling thousands of concurrent transactions with automated multi-currency conversion.  
+
+**Features in progress:**
+- Real-time FX conversion between African currencies (KSH, GHS, etc.)
+- Settlement across local banks and mobile money providers
+- Transaction monitoring and regulatory compliance mechanisms
+
 ---
 
-## 🌐 Connect & Explore
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira/)[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=flat-square)](https://www.martin.dev)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/archycode)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/archycode)
-<!--[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@archycode)-->
+### 🛒 AI-Powered E-Commerce Platform (StoreForge)
+**Core Tech:** TypeScript, Node.js, Redis, LLaMA / LLMs  
+Developing **StoreForge AI**, an AI-native platform that generates fully-functional multi-tenant e-commerce stores from tenant prompts.  
+
+**Features in progress:**
+- **Tenant-driven store creation:** tenants describe their products, branding, and layout preferences; the system generates a tailored storefront.
+- **AI-native site engine:** LLMs generate page layouts, product catalogs, themes, and content automatically.
+- **Multi-tenant architecture:** hundreds of independent storefronts run on a single backend while isolating tenant data and configuration.
+- **Automated deployment:** AI-generated stores are deployed with SSL and custom domains ready-to-go.
+- **Intelligent UX & personalization:** adaptive layouts and product recommendations powered by AI reasoning.
+
+---
+
+## 📊 Performance & Consistency
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MartinMurithi&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MartinMurithi&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Most Used Languages" width="48%" />
+</p>
+
+---
+
+## 🛠 Engineering Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Go`, `TypeScript`, `Python`, `SQL` |
+| **Infra/DevOps** | `Docker`, `Kubernetes`, `GitHub Actions` |
+| **Architecture** | `Microservices`, `gRPC`, `REST`, `Event-Driven Design` |
+| **Databases** | `PostgreSQL`, `MongoDB` |
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+**Currently open to Engineering roles.**
+
+<!--[**Schedule a Meeting**](https://calendly.com/your-link) | [**View Full Resume**](https://your-resume-link.com) -->
+
+---
+
+> *“Design for maintainability, build for scale, own the solution.”*
+
+</div>
