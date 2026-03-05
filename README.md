@@ -15,7 +15,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=MartinMurithi&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MartinMurithi&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Most Used Languages" width="48%" />
 </p>
-
 </div>
 
 
