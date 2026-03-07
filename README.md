@@ -34,9 +34,6 @@
 
 <div align="center">
 
-## 🤝 Let's Connect
-**Currently open to Engineering roles.**
-
 <!--[**Schedule a Meeting**](https://calendly.com/your-link) | [**View Full Resume**](https://your-resume-link.com) -->
 
 ---
