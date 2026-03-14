@@ -2,7 +2,7 @@
 
 # 👨‍💻 Martin Wachira 
 ## **Systems Architect & Software Engineer**
-**Specializing in FinTech Infrastructure & High-Scale Platforms**
+<!-- **Specializing in FinTech Infrastructure & High-Scale Platforms** -->
 
 <br />
 
