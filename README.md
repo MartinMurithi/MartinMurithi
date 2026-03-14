@@ -32,10 +32,6 @@
 
 ---
 
-<div align="center">
-
-<!--[**Schedule a Meeting**](https://calendly.com/your-link) | [**View Full Resume**](https://your-resume-link.com) -->
-
 ---
 
 > *“Design for maintainability, build for scale, own the solution.”*
