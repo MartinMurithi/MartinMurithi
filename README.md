@@ -2,8 +2,6 @@
 
 # 👨‍💻 Martin Wachira 
 ## **Systems Architect & Software Engineer**
-<!-- **Specializing in FinTech Infrastructure & High-Scale Platforms** -->
-
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira/)
@@ -16,8 +14,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MartinMurithi&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Most Used Languages" width="48%" />
 </p>
 </div>
-
-
 
 ---
 
