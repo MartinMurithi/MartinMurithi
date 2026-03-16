@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wachiramartin442@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge)](https://www.martin.dev)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge)](https://www.martin.dev) -->
 <br />
 ## 📊 Performance & Consistency
 <p align="center">
