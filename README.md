@@ -21,7 +21,7 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `Go`, `TypeScript`, `Python`, `JavaScript` `SQL` |
+| **Languages** | `Go`, `TypeScript`, `Python`,`SQL` |
 | **Infra/DevOps** | `Docker`, `Kubernetes`, `GitHub Actions` |
 | **Architecture** | `Microservices`, `gRPC`, `REST`, `Event-Driven Design` |
 | **Databases** | `PostgreSQL`, `MongoDB` |
