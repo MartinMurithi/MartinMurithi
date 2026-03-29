@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Martin Wachira 
-## **Systems Architect & Software Engineer**
+## **Systems Architect & Systems Engineer**
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira/)
@@ -24,7 +24,7 @@
 | **Languages** | `Go`, `TypeScript`, `Python`,`SQL` |
 | **Infra/DevOps** | `Docker`, `Kubernetes`, `GitHub Actions` |
 | **Architecture** | `Microservices`, `gRPC`, `REST`, `Event-Driven Design` |
-| **Databases** | `PostgreSQL`, `MongoDB` |
+| **Databases** | `PostgreSQL`, `MongoDB`
 
 ---
 
