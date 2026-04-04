@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Martin Wachira 
+# Martin Wachira 
 ## **Systems Architect & Systems Engineer**
 <br />
 
