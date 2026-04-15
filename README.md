@@ -11,6 +11,7 @@
 📊 Performance & Consistency
 <p align="center">
   <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=MartinMurithi&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinMurithi&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" alt="Github Streaks" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MartinMurithi&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Most Used Languages" width="48%" />
 </p>
 </div>
@@ -32,4 +33,4 @@
 
 > *“Design for maintainability, build for scale, own the solution.”*
 
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
