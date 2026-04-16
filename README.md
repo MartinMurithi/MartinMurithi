@@ -1,7 +1,7 @@
 <div align="center">
 
 # Martin Wachira 
-## **Systems Architect & Systems Engineer**
+## **Software & Systems Engineer**
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wachira/)
@@ -30,7 +30,5 @@
 ---
 
 ---
-
-> *“Design for maintainability, build for scale, own the solution.”*
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
