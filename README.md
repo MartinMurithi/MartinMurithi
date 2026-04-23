@@ -8,9 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wachiramartin442@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge)](https://www.martin.dev)
 <br />
-
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MartinMurithi&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Most Used Languages" width="48%" />
-</p>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MartinMurithi&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Most Used Languages" width="48%" />
 </div>
 
 ---
@@ -19,10 +17,7 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `Go`, `TypeScript`, `SQL`
-
-
-|'Python
+| **Languages** | `Go`, `TypeScript`, `SQL` `Python` |
 | **Infra/DevOps** | `Docker`, `Docker Compose`, `GitHub Actions` |
 | **Architecture** | `Microservices`, `gRPC`, `REST`, `Event-Driven Design` |
 | **Databases** | `PostgreSQL`, `MongoDB`
