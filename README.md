@@ -1,6 +1,6 @@
 <div align="center">
 
-# Martin Wachira 
+# Martin Murithi Wachira 
 ## **Software & Systems Engineer**
 <br />
 
